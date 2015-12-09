@@ -1,15 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Radio Fireball
+email: hello@radiofireball.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+  Sweden's premier hard rock and metal programme
 url: "http://thomaswaern.se" # the base hostname & protocol for your site
-baseurl: /radiofireball/
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: /radiofireball
+twitter_username: radiofireball
 
 # Build settings
 markdown: kramdown
